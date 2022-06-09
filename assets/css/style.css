@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fff;
+  background: rgb(0, 0, 0);
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: rgb(0, 0, 0);
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .logo a {
-  color: #2c4964;
+  color: #ffffff;
 }
 #header .logo img {
   max-height: 40px;
@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   font-size: 14px;
-  color: #2c4964;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
   border-bottom: 2px solid #fff;
@@ -271,7 +271,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #082744;
+  color: #ffffff;
   border: none;
 }
 .navbar .dropdown ul a i {
@@ -417,11 +417,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  text-transform: uppercase;
-  color: #2c4964;
+  color: #ffffff;
 }
 #hero h2 {
-  color: #2c4964;
+  color: #ffffff;
   margin: 10px 0 0 0;
   font-size: 24px;
 }
