@@ -1,3 +1,5 @@
+This is my project 1 submission for SEG3125
+
 Thanks for downloading this template!
 
 Template Name: Medilab
